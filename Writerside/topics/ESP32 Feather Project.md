@@ -21,7 +21,8 @@
   After creating the Jetbrains account, download and install the Toolbox App. This tool manages the installation and
   configuration of the Jetbrains tool.
 
-  ![Untitled](Untitled.png)
+
+![Untitled](Untitled.png)
 
   ## Install PHPStorm
 
@@ -38,7 +39,7 @@
 
   This will open the project in PHPStorm.
 
-  ![Untitled](Untitled%201.png)
+![Untitled](Untitled1.png)
 
   # Visual Studio Code
 
@@ -57,7 +58,7 @@
 
   Open VSCode and open the Extensions tab.
 
-  ![Untitled](Untitled%202.png)
+  ![Untitled](Untitled2.png)
 
   Search for **PlatformIO** and click on the Install button.
 
