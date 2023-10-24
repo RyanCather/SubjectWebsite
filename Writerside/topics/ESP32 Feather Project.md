@@ -49,7 +49,7 @@
 
   [](https://code.visualstudio.com/download)
 
-  Installing it on Linux may be more complicated and particular to the specific installlation of Linux. Some
+  Installing it on Linux may be more complicated and particular to the specific installation of Linux. Some
   instructions can be found here
 
   [](https://code.visualstudio.com/docs/setup/linux)
